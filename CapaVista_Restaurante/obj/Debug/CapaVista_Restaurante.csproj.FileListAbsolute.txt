@@ -1,0 +1,29 @@
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.exe.config
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.exe
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.pdb
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Form1.resources
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Properties.Resources.resources
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.exe
+C:\Users\kevin\Desktop\KEVIN PALMA\DOCUMENTOS DE UNIVERSIDAD\Quinto semestre\Programación3\Proyecto1\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.pdb
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.exe.config
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.exe
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.pdb
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csprojAssemblyReference.cache
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Form1.resources
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Properties.Resources.resources
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.exe
+C:\Users\kevin\Desktop\PROYECTO PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.pdb
+C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.exe.config
+C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.exe
+C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.pdb
+C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.exe
+C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.pdb
+C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csprojResolveAssemblyReference.cache
+C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Form1.resources
+C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Properties.Resources.resources
+C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csproj.GenerateResource.Cache
