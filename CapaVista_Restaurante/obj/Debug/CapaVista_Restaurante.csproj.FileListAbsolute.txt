@@ -27,3 +27,13 @@ C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\Ca
 C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Form1.resources
 C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Properties.Resources.resources
 C:\Users\Alex Fajardo\Desktop\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csproj.GenerateResource.Cache
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.exe.config
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.exe
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\bin\Debug\CapaVista_Restaurante.pdb
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csprojAssemblyReference.cache
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Form1.resources
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.Properties.Resources.resources
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csproj.GenerateResource.cache
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.exe
+C:\Users\joshu\OneDrive\Documentos\PROGRA 3\Proyecto1Listas\CapaVista_Restaurante\obj\Debug\CapaVista_Restaurante.pdb
